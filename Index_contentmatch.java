@@ -13,7 +13,7 @@ public class Index_contentmatch {
 			}
 			}
 		if(count==0){				
-			System.out.println("No number matched its array");
+			System.out.println("No element in the array matched its index");
 	}
 	}
 
